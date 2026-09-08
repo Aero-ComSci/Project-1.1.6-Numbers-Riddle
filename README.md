@@ -11,4 +11,5 @@ This project is part of the **Project Lead The Way (PLTW) AP Computer Science A*
 
 ## Authors
 * Rudra Goel
+* Sergey Dondokov
 * ...
