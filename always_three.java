@@ -1,19 +1,11 @@
 public class always_three {
     public static void main(String[] args) {
         // These values test positive, negative, and zero int and double values.
-        int positiveInt = 8;
-        int negativeInt = -8;
-        int zeroInt = 0;
-        double positiveDouble = 8.5;
-        double negativeDouble = -8.5;
-        double zeroDouble = 0.0;
-        System.out.println("Test values: " + positiveInt + ", " + negativeInt
-                + ", " + zeroInt + ", " + positiveDouble + ", "
-                + negativeDouble + ", " + zeroDouble);
+        double[] testValues = {8, -8, 0, 8.5, -8.5, 0.0};
 
-        // Choose any number to begin the number riddle.
-        double startingNumber = positiveDouble;
-        double originalNumber = startingNumber;
+        for (double value : testValues) {
+            double startingNumber = value;
+            double originalNumber = startingNumber;
 
             System.out.println("Starting number: " + startingNumber);
 
