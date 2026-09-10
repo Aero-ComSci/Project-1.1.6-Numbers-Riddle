@@ -13,7 +13,7 @@ This project is part of the **Project Lead The Way (PLTW) AP Computer Science A*
 
 Test Cases:
 
-<img width="462" height="837" alt="image" src="https://github.com/user-attachments/assets/f881d2f5-4588-492c-a8a4-126e8ea4f281" />
+<img width="471" height="840" alt="image" src="https://github.com/user-attachments/assets/99a7354f-cbad-43b4-9e4f-2a7174f3fffe" />
 
 ## Authors
 * Rudra Goel
