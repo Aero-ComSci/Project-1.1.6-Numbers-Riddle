@@ -4,29 +4,31 @@ public class always_three {
         int positiveInt = 8;
         int negativeInt = -8;
         int zeroInt = 0;
-        int oneInt = 1;
         double positiveDouble = 8.5;
         double negativeDouble = -8.5;
+        double zeroDouble = 0.0;
         System.out.println("Test values: " + positiveInt + ", " + negativeInt
-                + ", " + zeroInt + ", " + oneInt + ", " + positiveDouble + ", "
-                + negativeDouble);
+                + ", " + zeroInt + ", " + positiveDouble + ", "
+                + negativeDouble + ", " + zeroDouble);
 
         // Choose any number to begin the number riddle.
         double startingNumber = positiveDouble;
         double originalNumber = startingNumber;
 
-        System.out.println("Starting number: " + startingNumber);
+            System.out.println("Starting number: " + startingNumber);
 
-        startingNumber *= 2;
-        System.out.println("Double the number: " + startingNumber);
+            startingNumber *= 2;
+            System.out.println("Double the number: " + startingNumber);
 
-        startingNumber += 6;
-        System.out.println("Add six: " + startingNumber);
+            startingNumber += 6;
+            System.out.println("Add six: " + startingNumber);
 
-        startingNumber /= 2;
-        System.out.println("Divide by two: " + startingNumber);
+            startingNumber /= 2;
+            System.out.println("Divide by two: " + startingNumber);
 
-        startingNumber -= originalNumber;
-        System.out.println("Subtract the original number: " + startingNumber);
+            startingNumber -= originalNumber;
+            System.out.println("Subtract the original number: " + startingNumber);
+            System.out.println("----------------------------------------");
+        }
     }
 }
