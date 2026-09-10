@@ -9,6 +9,9 @@ This project is part of the **Project Lead The Way (PLTW) AP Computer Science A*
 * **Casting & Precision:** Handling intentional data conversions (widening and narrowing casting).
 * **Debugging:** Identifying logic errors or intentional flaws within sequential operations.
 
+<img width="671" height="452" alt="image" src="https://github.com/user-attachments/assets/d562579c-bde2-4677-aa6a-f15a93286b02" />
+
+
 ## Authors
 * Rudra Goel
 * Sergey Dondokov
