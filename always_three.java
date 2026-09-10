@@ -1,20 +1,32 @@
-class always_three {
+public class always_three {
     public static void main(String[] args) {
-        // assign the variable x to the number
-        int x = 1290819;
-        int temp = x;
-        System.out.println(x);
-        // double x
-        x *= 2;
-        System.out.println(x);
-        // add 6 to x
-        x += 6;
-        System.out.println(x);
-        // divide x by 2
-        x /= 2;
-        System.out.println(x);
-        // subtract the original value of x from itself
-        x -= temp;
-        System.out.println(x);
+        // These values test positive, negative, and zero int and double values.
+        int positiveInt = 8;
+        int negativeInt = -8;
+        int zeroInt = 0;
+        double positiveDouble = 8.5;
+        double negativeDouble = -8.5;
+        double zeroDouble = 0.0;
+        System.out.println("Test values: " + positiveInt + ", " + negativeInt
+                + ", " + zeroInt + ", " + positiveDouble + ", "
+                + negativeDouble + ", " + zeroDouble);
+
+        // Choose any number to begin the number riddle.
+        double startingNumber = positiveDouble;
+        double originalNumber = startingNumber;
+
+        System.out.println("Starting number: " + startingNumber);
+
+        startingNumber *= 2;
+        System.out.println("Double the number: " + startingNumber);
+
+        startingNumber += 6;
+        System.out.println("Add six: " + startingNumber);
+
+        startingNumber /= 2;
+        System.out.println("Divide by two: " + startingNumber);
+
+        startingNumber -= originalNumber;
+        System.out.println("Subtract the original number: " + startingNumber);
     }
 }
