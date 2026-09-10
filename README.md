@@ -11,6 +11,8 @@ This project is part of the **Project Lead The Way (PLTW) AP Computer Science A*
 
 <img width="671" height="452" alt="image" src="https://github.com/user-attachments/assets/d562579c-bde2-4677-aa6a-f15a93286b02" />
 
+Test Cases:
+<img width="462" height="837" alt="image" src="https://github.com/user-attachments/assets/f881d2f5-4588-492c-a8a4-126e8ea4f281" />
 
 ## Authors
 * Rudra Goel
