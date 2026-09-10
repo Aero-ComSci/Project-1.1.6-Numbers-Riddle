@@ -4,12 +4,12 @@ public class always_three {
         int positiveInt = 8;
         int negativeInt = -8;
         int zeroInt = 0;
+        int oneInt = 1;
         double positiveDouble = 8.5;
         double negativeDouble = -8.5;
-        double zeroDouble = 0.0;
         System.out.println("Test values: " + positiveInt + ", " + negativeInt
-                + ", " + zeroInt + ", " + positiveDouble + ", "
-                + negativeDouble + ", " + zeroDouble);
+                + ", " + zeroInt + ", " + oneInt + ", " + positiveDouble + ", "
+                + negativeDouble);
 
         // Choose any number to begin the number riddle.
         double startingNumber = positiveDouble;
