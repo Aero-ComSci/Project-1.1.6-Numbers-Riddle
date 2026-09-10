@@ -11,6 +11,10 @@ This project is part of the **Project Lead The Way (PLTW) AP Computer Science A*
 
 <img width="671" height="452" alt="image" src="https://github.com/user-attachments/assets/d562579c-bde2-4677-aa6a-f15a93286b02" />
 
+Variables:
+
+<img width="226" height="133" alt="image" src="https://github.com/user-attachments/assets/7d1e8535-3cee-41d3-8bce-25ffbdb38eb8" />
+
 Test Cases:
 
 <img width="471" height="840" alt="image" src="https://github.com/user-attachments/assets/99a7354f-cbad-43b4-9e4f-2a7174f3fffe" />
